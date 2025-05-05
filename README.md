@@ -29,7 +29,7 @@ This project provides visual analysis of global COVID-19 data, focusing on case 
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/covid19-global-tracker.git
+   git clone https://github.com/GemmechuBekele/week-8-python-project.git
    cd covid19-global-tracker
 
 ---
@@ -46,11 +46,11 @@ pip install -r requirements.txt
 ---
 
 4. **Data source:**
-   - The dataset owid-covid-data.csv can be downloaded from `Our World in Data`.
+   - The dataset owid-covid-data.csv can be downloaded from [Our World in Data](https://ourworldindata.org/covid-cases).
   
   ---
 
- ### 📊 Key Insights
+ ## 📊 Key Insights
 - The United States reported the highest total cases among the analyzed countries.
 - India showed a rapid vaccination rollout in mid-2021.
 - Kenya's total cases and deaths remained comparatively low but with slower vaccine uptake.
@@ -58,7 +58,7 @@ pip install -r requirements.txt
 
   ---
 
-  ### 💡 Reflections
+  ## 💡 Reflections
 - Data quality varies across countries and time periods; missing values required careful handling.
 - Interactive choropleth maps were effective in showing geographic case disparities.
 - Real-time data visualizations can guide public awareness and policy decisions.
